@@ -1,0 +1,46 @@
+.red {
+  height: 150px;
+  border: 2px solid #000;
+  background-color: #FF9999;
+}
+
+.grey {
+  height: 400px;
+  border: 2px solid #000;
+  background-color: #CCCCCC;
+}
+.blue {
+  height: 150px;
+  border: 2px solid #000;
+  background-color: #6699FF;
+}
+
+.green {
+  height: 25px;
+  border: 2px solid #000;
+  background-color: #33CC99;
+}
+
+.lblue {
+  height: 150px;
+  border: 2px solid #000;
+  background-color: #99CCFF;
+}
+
+.black {
+  height: 25px;
+  border: 2px solid #000;
+  background-color: #000;
+}
+
+.orange {
+  height: 125px;
+  border: 2px solid #000;
+  background-color: #FF9966;
+}
+
+@media screen and (max-width: 400px) {
+  footer {
+    background-color: #FFCCFF;
+  }
+}
